@@ -9,4 +9,4 @@ I have included the code in wkhtmltopdfCaller.vb file which is Visual Basic Code
 To compile "wkhtmltopdfCaller.vb" simply type in DOS Command Prompt "vbc htmltopdf.vb"
 If you want to include icon then use command "vbc /win32icon:htmlpdf.ico htmltopdf.vb"
 
-This is just a rudimentary GUI for windows users and the code here is written in very rough way (just to accomplish the task anyways) and contains no documentations So unless you really wanna mess with spaghetti you shouldn't take this project as base.
+This is just a rudimentary GUI for windows users and the code here is written in very rough way (just to accomplish the task anyways) and contains no documentation So unless you really wanna mess with spaghetti you shouldn't take this project as base.
